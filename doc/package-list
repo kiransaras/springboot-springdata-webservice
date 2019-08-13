@@ -1,0 +1,7 @@
+com.saraswathula.rest.webservice
+com.saraswathula.rest.webservice.dao
+com.saraswathula.rest.webservice.exception
+com.saraswathula.rest.webservice.models
+com.saraswathula.rest.webservice.resource
+com.saraswathula.rest.webservice.service
+com.saraswathula.rest.webservice.utils
