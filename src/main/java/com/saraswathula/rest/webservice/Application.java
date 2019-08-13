@@ -22,7 +22,7 @@ public class Application extends SpringBootServletInitializer {
 	 *            the arguments
 	 */
 	public static void main(String[] args) {
-		LOGGER.info("Application started ");
+		LOGGER.info("Application started");
 		SpringApplication.run(Application.class, args);
 	}
 
